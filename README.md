@@ -2,7 +2,7 @@
 Link: [Steve Answers](https://arya002.github.io/Steve-answers/)
 
 <p align="center">
-<img src="assets/homepage.png" width="500" height="300" > <img src="assets/answered.png" width="500" height="300" >
+<img src="assets/homepage.PNG" width="500" height="300" > <img src="assets/answered.PNG" width="500" height="300" >
 </p>
 
 a spin-off of peteranswers.com
