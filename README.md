@@ -1,6 +1,10 @@
 # Steve-answers
 Link: [Steve Answers](https://arya002.github.io/Steve-answers/)
 
+<p align="center">
+<img src="assets/homepage.png" width="500" height="300" > <img src="assets/answered.png" width="500" height="300" >
+</p>
+
 a spin-off of peteranswers.com
 This is a spin-off for the popular [Peter Answers](https://peteranswers.com/) we
 Prank your friends by claiming this is an AI site that knows everything about them.
