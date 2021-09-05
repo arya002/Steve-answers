@@ -15,8 +15,9 @@ Then write the petition in the box below.
 > While you write the petition ("Steve please answer") press the "." key the type the actual answer. - The petition will keep on being typed as normal
 > from the background script, so no one can tell when you're typing the answer. After typing the answer, press the "." key again the finish the rest of the petition. Then click on
 > "Ask". The answer would magically appear. If your friends try it themselves without knowing the "." trick, the srcipt would give them a generic response.
-> Have fun!!
-@ -13,3 +13,4 @@ Then write the petition in the box below.
+> 
+> ##### Have fun!!
+
 ## Tech Stack
 
 I used React js to build this website with help from Bootstrap for the UI.
