@@ -6,8 +6,9 @@ Link: [Steve Answers](https://arya002.github.io/Steve-answers/)
 </p>
 
 a spin-off of peteranswers.com
-This is a spin-off for the popular [Peter Answers](https://peteranswers.com/) we
+This is a spin-off for the popular [Peter Answers](https://peteranswers.com/).
 Prank your friends by claiming this is an AI site that knows everything about them.
+
 Ask them a question and type it in the question box.
 Then write the petition in the box below.
 
